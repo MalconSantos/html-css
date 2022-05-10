@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    ackground-image: url(/ex0022/imagens/pattern003.png);
+    
+}
+.quadrado{
+    border: 8px solid black;
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+#q1{
+    background-color: aqua;
+    
+}
+#q1:hover{
+    margin-left: 500px;
+}
+#q2{
+    background-image: url(/ex0022/imagens/pattern003.png);
+    background-color: antiquewhite;
+}
+#q3{
+    background-image: url(/ex0022/imagens/wallpaper001.jpg);
+background-color: yellow;
+}
