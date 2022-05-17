@@ -9,7 +9,7 @@ section{
     background-color: aliceblue;
     width: 100vw;
     height: 100vh;
-    background: #05C7F2;
+    background-image: linear-gradient(#07B0F2 50%, transparent 50%);
     display: flex;
     flex-direction: row;
     justify-content: center;
